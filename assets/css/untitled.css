@@ -1,3 +1,26 @@
-#mainNav .navbar-nav li.nav-item a.nav-link {
+.project-head {
+  font-size: 3.4vh;
 }
 
+.project-lang {
+  font-family: Lato, sans-serif;
+  margin-top: 20px;
+  font-size: 2.9vh;
+}
+
+.project-lang-name {
+  font-weight: 400;
+}
+
+.project-technology {
+  margin: 15px;
+  font-family: ABeeZee, sans-serif;
+  font-style: italic;
+  font-size: 17px;
+  color: rgb(95, 96, 98);
+  margin-top: 25px;
+}
+
+.modal-head {
+  font-size: 3.5vh;
+}
